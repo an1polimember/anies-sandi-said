@@ -1,5 +1,5 @@
 # anies-sandi-said
-collect data about what anies baswedan sandiaga uno said
+collected data about what anies baswedan and sandiaga uno said
 
 date(y,m,d)|title|link|archive|reddit discussion
 ---|---|---|---|---|
